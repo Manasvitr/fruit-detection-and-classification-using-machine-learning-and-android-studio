@@ -22,7 +22,7 @@ Step 2: Android Studio
 	-> Make sure the file is transferred out of the zip file.
 >> Click Java
 
-Step 3: Copy and Paste the Following Codes:
+Step 3: Codes:
 ------------------------------------
 1. AndroidManifest.xml [1 of 3]
 ------------------------------------
